@@ -14,6 +14,6 @@ public class DoWhile_EvenOdd {
             System.out.println("Odd no:" +i);
             i+=2;
         }
-        while (i<=10);
+        while (i<=20);
     }
 }

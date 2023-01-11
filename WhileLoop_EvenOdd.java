@@ -5,7 +5,7 @@ public class WhileLoop_EvenOdd {
         int a = 2;
         int b = 1;
 
-        while (a <= 10) {
+        while (a <= 20) {
 
             {
                 System.out.println("Even number :" + a);
